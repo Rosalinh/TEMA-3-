@@ -1,5 +1,6 @@
 function saludar() {
     alert("HOLII");
+    despedir();
 }
 
 function despedir() {
